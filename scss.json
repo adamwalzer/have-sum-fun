@@ -1,0 +1,5 @@
+{
+  "sourcemap": true,
+  "useIndex" : true,
+  "indexFilePath" : "client/stylesheets/main.scss"
+}

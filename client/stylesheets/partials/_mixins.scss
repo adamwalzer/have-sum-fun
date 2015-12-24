@@ -1,0 +1,8 @@
+@mixin wrapper {
+	width: 100%;
+	max-width: $site-width;
+	margin: 0 auto;
+	position: relative;
+	top: 0;
+	@include clearfix;
+}

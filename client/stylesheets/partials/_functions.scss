@@ -1,0 +1,11 @@
+@function expon($x,$e) {
+	@if($e==0) {
+		@return 1;
+	}
+	@return $x*expon($x,$e - 1);
+}
+
+@function calc-color($e) {
+	// @return rgb(floor(50 + $e / 15 * 55), floor(175 - $e / 15 * 155), floor(125 - $e / 15 * 95))
+	@return nth($colors, $e);
+}

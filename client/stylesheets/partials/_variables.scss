@@ -1,0 +1,106 @@
+// dimensions
+$mobile: 650px;
+$tablet: 980px;
+$site-width: 1200px;
+
+// speeds
+$slow: .5s;
+$fast: .25s;
+
+// fonts
+$sans: 'Roboto Condensed';
+
+// sizes
+$extra-large: 24px;
+$large: 20px;
+$medium: 16px;
+$small: 10px;
+
+// colors
+$white: #FFFFFF;
+$black: #000000;
+$main-color: #004FAD;
+$second-color: #FF3A20;
+$third-color: #1F830C;
+$med-blue: #3ABEC9;
+$purple: #2710C2;
+$grey: #AEAFC2;
+$dark-grey: darken($grey,20);
+$light-grey: lighten($grey,20);
+
+$board-color: lighten($light-grey,3);
+
+$light-blue: #3399FF;
+$blue: #1947D1;
+$dark-blue: #004C66;
+$dark-green: #005252;
+$green: #006600;
+$light-green: #33CC33;
+$yellow-green: #CCFF66;
+$yellow: #FFFF66;
+$yellow-orange: #FFCC66;
+$orange: #FF6600;
+$red-orange: #E62E00;
+$red: #CC0000;
+$pink: #CC0066;
+$purple: #993366;
+$violet: #CC00FF;
+$indigo: #6600FF;
+
+// rainbow
+// $color1: #83B1FF;
+// $color2: #7DE2FF;
+// $color3: #8FFCE7;
+// $color4: #7FFBA0;
+// $color5: #94FA70;
+// $color6: #DCFB81;
+// $color7: #FFF67F;
+// $color8: #FFCD72;
+// $color9: #FFB87A;
+// $color10: #FF9268;
+// $color11: #FF908F;
+// $color12: #FF9BDA;
+// $color13: #EA98FF;
+// $color14: #A487FF;
+// $color15: #7580FF;
+// $color16: #5084FF;
+
+// darker rainbow
+$color1: darken(#83B1FF,40);
+$color2: darken(#7DE2FF,40);
+$color3: darken(#8FFCE7,40);
+$color4: darken(#7FFBA0,40);
+$color5: darken(#94FA70,40);
+$color6: darken(#DCFB81,40);
+$color7: darken(#FFF67F,40);
+$color8: darken(#FFCD72,40);
+$color9: darken(#FFB87A,40);
+$color10: darken(#FF9268,40);
+$color11: darken(#FF908F,40);
+$color12: darken(#FF9BDA,40);
+$color13: darken(#EA98FF,40);
+$color14: darken(#A487FF,40);
+$color15: darken(#7580FF,40);
+$color16: darken(#5084FF,40);
+
+// rainbow compliments
+// $color1: #83B1FF;
+// $color2: #FFB87A;
+// $color3: #7DE2FF;
+// $color4: #FF9268;
+// $color5: #8FFCE7;
+// $color6: #FF908F;
+// $color7: #7FFBA0;
+// $color8: #FF9BDA;
+// $color9: #94FA70;
+// $color10: #EA98FF;
+// $color11: #DCFB81;
+// $color12: #A487FF;
+// $color13: #FFF67F;
+// $color14: #7580FF;
+// $color15: #FFCD72;
+// $color16: #5084FF;
+
+
+
+$colors: $color1, $color2, $color3, $color4, $color5, $color6, $color7, $color8, $color9, $color10, $color11, $color12, $color13, $color14, $color15, $color16;

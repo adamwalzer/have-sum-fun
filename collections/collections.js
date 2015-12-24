@@ -1,0 +1,1 @@
+HighScores = new Meteor.Collection('high-scores');

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="204px" height="224px" viewBox="0 0 204 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>reset-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M101.852814,181.852814 C134.989899,181.852814 161.852814,154.989899 161.852814,121.852814 C161.852814,88.7157288 134.989899,61.8528137 101.852814,61.8528137 C68.7157288,61.8528137 41.8528137,88.7157288 41.8528137,121.852814"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Oval-1">
+            <use stroke="#0044B6" stroke-width="24" fill-opacity="0" fill="#D8D8D8" fill-rule="evenodd" sketch:type="MSShapeGroup" transform="translate(101.852814, 121.852814) rotate(-315.000000) translate(-101.852814, -121.852814) " xlink:href="#path-1"></use>
+            <use stroke="none" fill="none" xlink:href="#path-1"></use>
+        </g>
+        <path d="M31.9962715,48.9441622 L102.996271,49.9441622" id="Path-1" stroke="#0044B6" stroke-width="24" sketch:type="MSShapeGroup" transform="translate(67.496271, 49.444162) rotate(-69.500000) translate(-67.496271, -49.444162) "></path>
+        <path d="M40.8969696,95.8969696 L111.89697,96.8969696" id="Path-1-Copy" stroke="#0044B6" stroke-width="24" sketch:type="MSShapeGroup" transform="translate(76.396970, 96.396970) rotate(45.000000) translate(-76.396970, -96.396970) "></path>
+    </g>
+</svg>
